@@ -79,9 +79,9 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkansevil&show_icons=true&locale=en&layout=compact" alt="berkansevil" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=berkansevil&show_icons=true&locale=en" alt="berkansevil" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkansevil&" alt="berkansevil" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Berkansevil&show_icons=true&locale=en&layout=compact" alt="berkansevil" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Berkansevil&show_icons=true&locale=en" alt="berkansevil" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Berkansevil&" alt="berkansevil" />
 </p>
 ---
 
